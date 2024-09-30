@@ -32,7 +32,7 @@ O objetivo deste projeto é demonstrar como ajustar um modelo de linguagem pré-
 1. **Clonar o repositório:**
 
    ```bash
-   [git clone https://github.com/seu-usuario/fine-tuning-produtos.git](https://github.com/jordanmsouza/TechChallenge_Fase3_Grupo4.git)
+   git clone https://github.com/jordanmsouza/TechChallenge_Fase3_Grupo4.git
 2. **Preparar o dataset:**
 
 * Certifique-se de ter um arquivo JSON contendo dados de produtos com os campos `"title"` e `"content"`, onde `"title"` é o título do produto e `"content"` é a descrição.  
@@ -40,7 +40,7 @@ O objetivo deste projeto é demonstrar como ajustar um modelo de linguagem pré-
 
 3. **Executar o script:**
 
-* Abra o notebook `fine_tuning_produtos.ipynb` no Google Colab.
+* Abra o notebook `TechChallenge_Fase3_Grupo4.ipynb` no Google Colab.
 * Execute as células do notebook em ordem, seguindo as instruções fornecidas.
 
 4. **Ajustar o modelo:**
