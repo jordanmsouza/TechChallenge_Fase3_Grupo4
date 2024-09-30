@@ -17,8 +17,7 @@ O objetivo deste projeto é demonstrar como ajustar um modelo de linguagem pré-
 
 * **Python 3.8** ou superior.
 * **Google Colab** (recomendado para execução).
-* **Google Driver**:
-    * Arquivos para treinamento: https://drive.google.com/drive/folders/1O7mFVxtvZum2qwvK4729KI-eLOrTqjFU?usp=sharing
+* **Google Driver**: https://drive.google.com/drive/folders/1O7mFVxtvZum2qwvK4729KI-eLOrTqjFU?usp=sharing
 * **Bibliotecas Python**:
     * `unsloth`: Biblioteca para manipulação de modelos de linguagem grandes e eficientes em memória.
     * `trl`: Framework para treinamento de modelos com reforço (*Transformers Reinforcement Learning*).
