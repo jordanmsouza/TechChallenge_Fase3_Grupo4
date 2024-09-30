@@ -50,8 +50,8 @@ O objetivo deste projeto é demonstrar como ajustar um modelo de linguagem pré-
 
 5. **Testar o modelo ajustado:**
 
-Após o fine-tuning, o script testa o modelo com um exemplo de título e exibe a descrição gerada.  
-Você pode fornecer títulos personalizados para gerar novas descrições.
+* Após o fine-tuning, o script testa o modelo com um exemplo de título e exibe a descrição gerada.  
+* Você pode fornecer títulos personalizados para gerar novas descrições.
 
 ## Detalhes Técnicos
 
