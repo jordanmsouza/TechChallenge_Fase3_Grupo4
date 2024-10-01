@@ -3,7 +3,7 @@
 Este repositório contém um script para realizar o **fine-tuning** (ajuste fino) de **modelos de linguagem pré-treinados** (LLMs - *Large Language Models*) de código aberto, com o objetivo de gerar descrições estilizadas de produtos a partir de seus títulos. O script utiliza a biblioteca `unsloth` para carregar modelos de linguagem grandes e eficientes em memória, como o **Mistral 7B** quantizado em 4 bits, e o framework `trl` (Transformers Reinforcement Learning) para realizar o fine-tuning com a técnica **LoRA** (*Low-Rank Adaptation*).
 
 ## Video Youtube
-* **Link**: https://youtu.be/0zgMDp8s2yU
+* **Link Detalhamento do Projeto**: https://youtu.be/0zgMDp8s2yU
 
 ## Objetivo
 
